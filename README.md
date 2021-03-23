@@ -3,7 +3,7 @@
 ## Brief
 이 프로젝트는 4자유도를 가진 매니퓰레이터를 라그랑지안 방정식을 이용한 동역학 해석을 통하여 시뮬레이션한 프로젝트입니다.  
 서울과학기술대학교의 응용 로봇 설계 수업의 텀 프로젝트로 제작되었습니다.
-
+시뮬레이트 툴박스는 Peter Corke의 [RTB](https://petercorke.com/toolboxes/robotics-toolbox/)를 사용하였습니다.
 ||||
 |---|---|---|
 |IDE|MATLAB| R2020b|
