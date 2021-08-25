@@ -1,4 +1,4 @@
-# 3DOF_manupulator_simulation
+# 3DOF_manupulator_simulator
 
 ## Brief
 이 프로젝트는 4자유도를 가진 매니퓰레이터를 라그랑지안 방정식을 이용한 동역학 해석을 통하여 시뮬레이션한 프로젝트입니다.  
